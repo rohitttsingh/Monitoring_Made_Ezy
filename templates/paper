@@ -1,0 +1,18 @@
+runId
+instanceName
+status->COMPLETED FAILED(FOR MAPPING)
+status->SUCCESS FAILED (FOR TASKFLOW AND MTT)
+assetType
+correlationId
+startTime
+endTime
+duration
+errorMessage
+location
+rowsProcessed
+successRows
+errorRows
+runtimeEnvName
+startedBy
+subtasks
+runContext

@@ -1,7 +1,6 @@
 # Monitoring_Made_Ezy
-<img width="1440" alt="Screenshot 2023-10-16 at 6 19 02 PM" src="https://github.com/rohitttsingh/Monitoring_Made_Ezy/assets/73903627/69389dc7-211c-4646-8abc-c024f74410a0">
+<img width="1433" src="https://github.com/rohitttsingh/Monitoring_Made_Ezy/assets/73903627/1ece3004-aab9-412f-bcf0-f801a62b942b">
 <img width="603" alt="Screenshot 2023-10-16 at 6 19 31 PM" src="https://github.com/rohitttsingh/Monitoring_Made_Ezy/assets/73903627/87b29b25-4717-48ad-8b4a-5404a665d8f3">
-![image](https://github.com/rohitttsingh/Monitoring_Made_Ezy/assets/73903627/1ece3004-aab9-412f-bcf0-f801a62b942b)
 
 # Flask Script for INFA Monitor API (Private) Data Retrieval and Excel Export
 

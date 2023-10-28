@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>API for Logs - Dark Theme</title>
+    <title>Monitoring Made Ezy</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
  <style>
         body {
@@ -117,8 +117,7 @@
                             <br>
 
 
-
-                             <div class="container">
+                             <form class="container">
                                     <h5>Select :</h5>
                                     <form method="POST" action="/">
                                         <div class="row">
@@ -203,6 +202,12 @@
                                                 <label class="form-check-label" for="successRows">Success Rows</label>
                                             </div>
                                         </div>
+                                        <div class="col-md-4">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="logEntryId" name="options" value="logEntryId">
+                                                <label class="form-check-label" for="logEntryId">log Entry Id</label>
+                                            </div>
+                                        </div>
                                     </div>
 
                                     <div class="row">
@@ -239,11 +244,13 @@
                                                 <label class="form-check-label" for="runContext">Run Context</label>
                                             </div>
                                         </div>
+                                        <div class="col-md-4">
+                                            <div class="form-check">
+                                                <input class="form-check-input" type="checkbox" id="extraData" name="options" value="extraData">
+                                                <label class="form-check-label" for="extraData">Extra Data</label>
+                                            </div>
+                                        </div>
                                     </div>
-
-
-                                    </form>
-                                </div>
 
                             <br>
                             <input type="submit" class="btn btn-primary custom-button" value="Submit">

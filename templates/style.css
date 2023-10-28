@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, .card {
+    background-color: rgb(40, 40, 40);
+    border: .2rem solid rgb(57, 57, 57) !important;
+}
+.accordion-button {
+    background-color: #cfe2ff;
+}
+
+.accordion-item {
+    background-color: rgb(40, 40, 40);
+    border-color: rgb(57, 57, 57) !important;
+}
+
+input, select {
+    background-color: rgb(40, 40, 40) !important;
+    border: .2rem solid rgb(57, 57, 57) !important;
+    outline: none !important;
+    color: blanchedalmond !important;
+}
+
+h5, label, .accordion-body {
+    color: rgb(192, 192, 192);
+}
+
+.mainContainer {
+    padding: 1rem 5vw;
+    display: flex;
+    margin: 2rem 0 4rem 0;
+}
+
+.innerBox2 {
+    width: 100%;
+    margin: 0 0 0 2rem !important;
+}

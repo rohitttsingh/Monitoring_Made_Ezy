@@ -81,7 +81,8 @@ def get_activity_log(session_id, server_url, typev, orgId):
 
         api_header = {'Content-Type': 'application/json',
                        'IDS-SESSION-ID': session_id,
-                       'Accept': 'application/json'}
+                       'Accept': 'application/json'
+                      }
 
         response = requests.request("GET", url, headers=api_header)
 
@@ -97,12 +98,12 @@ def get_activity_log(session_id, server_url, typev, orgId):
                 taskflow_name = jsondata['value'][i]#['assetName']
                 #run_id = jsondata['value'][i]['runId']
 
-                all_activity_log_data.append(taskflow_name)#, run_id])  # Add taskflow name and run ID to the data list
+                all_activity_log_data.append(taskflow_name)
+                #, run_id])  # Add taskflow name and run ID to the data list
                 #print(all_activity_log_data)
-               # print(run_id, "\n")
+                #print(run_id, "\n")
 
         start += 1
-
 
     return all_activity_log_data
 

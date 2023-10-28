@@ -1,5 +1,5 @@
 # Monitoring_Made_Ezy
-<img width="1433" src="https://github.com/rohitttsingh/Monitoring_Made_Ezy/assets/73903627/1ece3004-aab9-412f-bcf0-f801a62b942b">
+<img width="733" src="https://github.com/rohitttsingh/Monitoring_Made_Ezy/assets/73903627/1ece3004-aab9-412f-bcf0-f801a62b942b">
 <img width="603" alt="Screenshot 2023-10-16 at 6 19 31 PM" src="https://github.com/rohitttsingh/Monitoring_Made_Ezy/assets/73903627/87b29b25-4717-48ad-8b4a-5404a665d8f3">
 
 # Flask Script for INFA Monitor API (Private) Data Retrieval and Excel Export
